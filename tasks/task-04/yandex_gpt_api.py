@@ -4,6 +4,7 @@ import time
 import requests
 from dotenv import load_dotenv
 
+# переименуй файл .env.dist в .env и подставь соотвествующие данные
 load_dotenv()
 folder_id = os.getenv("YANDEX_FOLDER_ID")
 api_key = os.getenv("YANDEX_API_KEY")
