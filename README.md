@@ -1,2 +1,3 @@
-# tg-bots-gpt-bootcamp
-Telegram Bots and GPT bootcamp
+# Telegram Bots and GPT bootcamp
+
+[Инструкция по настройке окружения](/setup-environment/README.md)
