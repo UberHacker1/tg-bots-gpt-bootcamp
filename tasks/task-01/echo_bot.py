@@ -11,6 +11,7 @@ async def echo(message: Message) -> None:
 
 
 async def main() -> None:
+    # переименуй файл .env.dist в .env и подставь соотвествующие данные
     load_dotenv()
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
 
